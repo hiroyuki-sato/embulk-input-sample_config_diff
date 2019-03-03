@@ -1,0 +1,5 @@
+in:
+  type: sample_config_diff
+out:
+  type: stdout
+
